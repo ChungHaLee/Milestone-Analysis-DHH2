@@ -1,0 +1,84 @@
+user_id,name,sex,age,disabled_degree,disabled_type,communication_type,communication_input,display_type
+1,ㅇ,female,ㅇ,ㅇ,B,"['B', 'C']",,nongin
+2,ㅇ,female,ㅇ,ㅇ,B,['B'],,cheongin
+3,양예진,female,20,0,D,['C'],,cheongin
+4,김주원,female,20세(만19세),0,D,"['A', 'B', 'C']",,cheongin
+5,최유진,female,29,0,D,['C'],,cheongin
+6,엄단비,female,24,0,D,"['C', 'B']",,cheongin
+7,김호정,female,23세,0,D,['C'],,cheongin
+8,이다예,female,25,0,D,['C'],,cheongin
+9,박혜민,female,24,0,D,"['C', 'B']",,cheongin
+10,김윤태,male,20,0,D,['C'],,cheongin
+11,전지민,male,20,0,D,"['B', 'C']",,cheongin
+12,정은해,female,26,0,D,['B'],,cheongin
+13,정송민,male,25,0,D,['C'],,cheongin
+14,ㅇ,female,ㅇ,ㅇ,C,['D'],,nongin
+15,김여진,female,24,0,D,['C'],,cheongin
+16,ㅇ,female,ㅇ,ㅇ,C,['B'],,nongin
+17,ㅇ,female,ㅇ,ㅇ,C,['C'],,nongin
+18,최유진,female,29,0,D,['C'],,cheongin
+19,이지민,male,21,0,D,[],,cheongin
+20,최아은,female,29세,0,D,[],,cheongin
+21,이예진,female,24,0,D,['C'],,cheongin
+22,이예진,female,24,0,D,['C'],,cheongin
+23,ㅇ,female,ㅇ,ㅇ,B,['B'],,cheongin
+24,박민식,male,21,0,D,['C'],,cheongin
+25,손수지,female,33,0,D,['C'],,cheongin
+26,s,female,d,d,C,['B'],,cheongin
+27,전영대,male,28,0,D,"['C', 'B']",,cheongin
+28,송채훈,male,22,0,D,['C'],,cheongin
+29,오세정,female,32,0,D,['C'],,cheongin
+30,ㅇ,female,ㅇ,ㅇ,D,['B'],,nongin
+31,ㅇ,female,ㅇ,ㅇ,C,['C'],,cheongin
+32,ㄷ,female,ㄷ,ㄷ,D,['C'],,nongin
+33,ㄹ,female,ㄹ,ㄹ,C,['B'],,cheongin
+34,김하늘,female,26,0,D,[],,cheongin
+35,김소연,female,28,0,D,['C'],,cheongin
+36,정채빈,female,21,0,D,['C'],,cheongin
+37,엄단비,female,24,0,D,"['B', 'C']",,cheongin
+38,이다예,female,25,0,D,['C'],,cheongin
+39,권한솔,female,24,0,D,['C'],,cheongin
+40,김윤태,male,20,0,D,['C'],,cheongin
+41,김호정,female,23세,0,D,['C'],,cheongin
+42,김선유,female,25,0,D,"['B', 'C']",,cheongin
+43,정진성,male,37,중증,A,"['A', 'B', 'C']",,nongin
+44,김봉관,male,51,100,A,"['A', 'C', 'B']",,nongin
+45,유승민,male,28,90dB,A,"['A', 'B', 'C']",,nongin
+46,김선우,male,25,95,C,"['A', 'B', 'C']",,nongin
+47,정진성,male,37,중증,A,"['A', 'B', 'C']",,nongin
+48,김기완,male,20,0,C,['C'],,cheongin
+49,한승진,male,24세,90db,B,"['A', 'C', 'B']",,nongin
+50,윤상철,male,24,중증,A,"['A', 'B', 'C']",,nongin
+51,차진선,female,28,105db(정확히 기억안남),C,"['C', 'A']",,nongin
+52,오세영,female,37,0,D,['C'],,cheongin
+53,s,etc,s,s,C,['C'],,nongin
+54,주혜경,female,35,오른쪽 110 / 왼쪽 95,B,"['A', 'B', 'C']",,nongin
+55,ㅆ,female,ㅆ,ㅇ,C,['B'],,nongin
+56,백형규,male,36,100dB,A,"['A', 'C', 'B']",,nongin
+57,이지민,male,21,0,D,[],,cheongin
+58,정송민,male,25,0,D,['C'],,cheongin
+59,엄단비,female,24,0,D,"['C', 'B']",,cheongin
+60,전영대,male,28,0,D,"['C', 'B']",,cheongin
+61,윤상철,male,24,중증,A,"['A', 'B', 'C']",,nongin
+62,성지훈,male,27,90-100dB,B,"['A', 'C', 'B']",,nongin
+63,정은해,female,26,0,D,"['C', 'B']",,cheongin
+64,이지민,male,21,0,D,[],,cheongin
+65,정송민,male,25,0,D,['C'],,cheongin
+66,김주원,female,20세(만19세),0,D,"['B', 'C']",,cheongin
+67,오세영,female,37,0,D,['C'],,cheongin
+68,배설영,female,20,0,D,['C'],,cheongin
+69,신동훈,male,21,0,D,[],,cheongin
+70,송채훈,male,22,0,D,['C'],,cheongin
+71,최아은,female,29세,0,D,[],,cheongin
+72,박혜민,female,24,0,D,"['B', 'C']",,cheongin
+73,박혜민,female,24,0,D,"['B', 'C']",,cheongin
+74,박민식,male,21,0,D,['C'],,cheongin
+75,이예진,female,24,0,D,['C'],,cheongin
+76,송채훈,male,22,0,D,['C'],,cheongin
+77,전지민,male,20,0,D,"['B', 'C']",,cheongin
+78,전지민,male,20,0,D,"['C', 'B']",,cheongin
+79,김하늘,female,26,0,D,[],,cheongin
+80,신동훈,male,21,0,D,[],,cheongin
+81,송채훈,male,22,0,D,['C'],,cheongin
+82,오세정,female,32,0,D,['C'],,cheongin
+83,이다예,female,25,0,D,['C'],,cheongin
